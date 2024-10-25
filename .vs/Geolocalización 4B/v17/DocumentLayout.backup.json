@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ramonbl\\Downloads\\practicas de las apis\\practicas de las apis\\Geolocalizaci\u00F3n 4B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A14C7EA8-3DEC-4B6B-BF93-DB9007DFB0E4}|Geolocalizaci\u00F3n 4B.csproj|C:\\Users\\ramonbl\\Downloads\\practicas de las apis\\practicas de las apis\\Geolocalizaci\u00F3n 4B\\js\\locationpicker.jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A14C7EA8-3DEC-4B6B-BF93-DB9007DFB0E4}|Geolocalizaci\u00F3n 4B.csproj|solutionrelative:js\\locationpicker.jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A14C7EA8-3DEC-4B6B-BF93-DB9007DFB0E4}|Geolocalizaci\u00F3n 4B.csproj|c:\\users\\ramonbl\\downloads\\practicas de las apis\\practicas de las apis\\geolocalizaci\u00F3n 4b\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A14C7EA8-3DEC-4B6B-BF93-DB9007DFB0E4}|Geolocalizaci\u00F3n 4B.csproj|solutionrelative:inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "inicio.aspx",
+              "DocumentMoniker": "C:\\Users\\ramonbl\\Downloads\\practicas de las apis\\practicas de las apis\\Geolocalizaci\u00F3n 4B\\inicio.aspx",
+              "RelativeDocumentMoniker": "inicio.aspx",
+              "ToolTip": "C:\\Users\\ramonbl\\Downloads\\practicas de las apis\\practicas de las apis\\Geolocalizaci\u00F3n 4B\\inicio.aspx",
+              "RelativeToolTip": "inicio.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-25T02:18:24.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "locationpicker.jquery.js",
+              "DocumentMoniker": "C:\\Users\\ramonbl\\Downloads\\practicas de las apis\\practicas de las apis\\Geolocalizaci\u00F3n 4B\\js\\locationpicker.jquery.js",
+              "RelativeDocumentMoniker": "js\\locationpicker.jquery.js",
+              "ToolTip": "C:\\Users\\ramonbl\\Downloads\\practicas de las apis\\practicas de las apis\\Geolocalizaci\u00F3n 4B\\js\\locationpicker.jquery.js",
+              "RelativeToolTip": "js\\locationpicker.jquery.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-25T02:18:25.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
